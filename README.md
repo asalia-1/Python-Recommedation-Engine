@@ -1,2 +1,2 @@
 ## Python-Recommedation-Engine
-Uses collaborative filtering to recommend content to other users based on the ratings of similar users 
+Uses collaborative filtering (Collaborative filtering is a technique that can filter out items that a user might like on the basis of reactions by similar users) to recommend content to users  
